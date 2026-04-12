@@ -4,7 +4,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-# Repository of the Codefair presentation material at the Software Citation Workshop (April 13-16, 2026 in La Jolla, CA, USA)
+# Repository of the Codefair presentation material at the Software Citation Workshop (April 13-16, 2026, in La Jolla, CA, USA)
 
 ## About
 
@@ -18,9 +18,8 @@ This repository contains the slides associated with our talk at the [Software Ci
 | Talk (10 min)   | Codefair.io: An Open Source and Free Software for Easily Making GitHub Repositories FAIR|  Monday, April 13, 2026, at 11:27 am PT | Bhavesh Patel (presenter) et al.|  Flash Talk Session 2, San Diego Supercomputer Center | [Workshop website](https://softwarecitationworkshop.ucsd.edu) |
 
 
-## Meeting material
+## Material
 
-Talk:
 - [SCW-2026-Talk-Codefair.pdf](SCW-2026-Talk-Codefair.pdf): slides of our talk
 
 
@@ -31,7 +30,7 @@ We list here major resources relevant to our talk.
 
 | Description                                         | Link                                                              |
 | --------------------------------------------------  | ----------------------------------------------------------------- |
-| Everything related to codefair                         | https://codefair.io |
+| Everything related to Codefair                         | https://codefair.io |
 | Codefair on the GitHub marketplace                         | https://github.com/marketplace/codefair-app |
 | FAIR-BioRS guidelines                           | https://fair-biors.org/ |
 | FAIR-BioRS guidelines manuscript                          | https://doi.org/10.1038/s41597-023-02463-x |
@@ -45,5 +44,5 @@ The material in this repository is licensed under a
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 ## Contact us
-For submitting feedback or getting in touch, email bpatel@calmi2.org.
+For submitting feedback or questions, email bpatel@calmi2.org.
 
