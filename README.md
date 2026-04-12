@@ -8,7 +8,7 @@
 
 ## About
 
-This repository contains the slides associated with our talk at the [Software Citation Workshop](https://softwarecitationworkshop.ucsd.edu), an event that brings together researchers, developers, and open science advocates to advance best practices for citing software in scholarly work. We are presenting Codefair, an open-source and free platform for making biomedical research software FAIR.
+This repository contains the slides associated with our talk at the [Software Citation Workshop](https://softwarecitationworkshop.ucsd.edu), an event that brings together researchers, developers, and open science advocates to advance best practices for citing software in scholarly work. We are presenting Codefair, an open-source and free platform for making research software FAIR.
 
 
 ## Schedule
